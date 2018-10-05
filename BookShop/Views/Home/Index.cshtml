@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+@model List<int>
+
+<div>
+    @foreach (var item in @ViewBag.List)
+    {
+        <span>@item</span>
+    }
+ 
+</div>
