@@ -59,7 +59,6 @@
     <Compile Include="Models\Footer.cs" />
     <Compile Include="Models\Menu.cs" />
     <Compile Include="Models\MenuType.cs" />
-    <Compile Include="Models\OnlineShopDbContext.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ProductCategory.cs" />
     <Compile Include="Models\Slide.cs" />
